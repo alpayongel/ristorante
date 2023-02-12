@@ -1,0 +1,17 @@
+
+body {
+    background-color:blanchedalmond;
+}
+
+h1,h2,h3 {
+    color: rgb(133, 27, 190);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    color: rgb(78, 14, 187);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#first-head {
+    color: rgb(50, 1, 95);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
